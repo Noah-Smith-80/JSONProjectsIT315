@@ -1,6 +1,8 @@
 {
   "WorkoutPlan":
   [
+    {"WorkoutName":"Legs","WorkoutDifficulty":"Hard","WorkoutTime":"45-60 Minutes","WorkoutWebsite":"https://www.muscleandfitness.com/routine/workouts/workout-routines/best-legs-workout-beginners","WorkoutDescription":"One minute rest between each set! \n3 sets of 15 reps Squats \n3 sets of 12 reps Walking Lunges \n3 sets of 15 reps Glute Bridge \n3 sets of 20 reps Standing Calf Raises"},
+      
 
   ]
 
